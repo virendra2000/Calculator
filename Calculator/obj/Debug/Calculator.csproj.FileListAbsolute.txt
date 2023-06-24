@@ -1,0 +1,37 @@
+c:\users\vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\bin\Debug\Guna.UI2.dll
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.splash.resources
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Vkalw\documents\visual studio 2012\Projects\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+C:\Users\Vkalw\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Vkalw\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Vkalw\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Vkalw\source\repos\Calculator\Calculator\bin\Debug\Guna.UI2.dll
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.splash.resources
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Vkalw\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+K:\My Drive\Calculator\Calculator\bin\Debug\Calculator.exe.config
+K:\My Drive\Calculator\Calculator\bin\Debug\Calculator.exe
+K:\My Drive\Calculator\Calculator\bin\Debug\Calculator.pdb
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.calculator.resources
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.splash.resources
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.exe
+K:\My Drive\Calculator\Calculator\obj\Debug\Calculator.pdb
